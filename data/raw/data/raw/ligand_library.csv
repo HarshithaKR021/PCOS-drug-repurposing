@@ -1,0 +1,6 @@
+name,smiles,source,status
+metformin,CN(C)C(=N)NC(=N)N,FDA approved,candidate
+quercetin,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,natural product,candidate
+resveratrol,Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1,natural product,candidate
+naringenin,O=C1C=C(c2ccc(O)cc2)OC2=CC(O)=CC(O)=C12,natural product,candidate
+kaempferol,O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,natural product,candidate
