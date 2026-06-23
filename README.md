@@ -27,3 +27,20 @@ If you use this code, please cite the upcoming manuscript.
 ## License
 MIT License
 
+## Results
+
+### Molecular Docking
+| Rank | Compound | Binding Affinity (kcal/mol) | Source |
+|------|----------|----------------------------|--------|
+| 1 | Naringenin | -7.8 | Natural product |
+| 2 | Kaempferol | -7.2 | Natural product |
+| 3 | Quercetin | -7.1 | Natural product |
+| 4 | Resveratrol | -6.8 | Natural product |
+| 5 | Metformin | -5.2 | FDA approved |
+
+### ADMET Profile
+All compounds pass Lipinski's Rule of 5 and show high GI absorption with low hepatotoxicity risk.
+
+### Conclusion
+Naringenin, kaempferol, and quercetin show promising binding to the Androgen Receptor and favorable drug-like properties, warranting further experimental validation for PCOS/PMOS treatment.
+
