@@ -1,0 +1,4 @@
+compound,mw,logp,hbd,hba,gi_absorption,bbb_permeant,hepatotoxicity,lipinski_pass
+Naringenin,270.24,1.53,3,5,High,No,No,Yes
+Kaempferol,286.24,1.2,4,6,High,No,No,Yes
+Quercetin,302.24,0.7,5,7,High,No,No,Yes
