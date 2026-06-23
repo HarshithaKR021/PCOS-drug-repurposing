@@ -1,5 +1,6 @@
-ligand,affinity_kcal_mol,status
-quercetin,0.0,success
-resveratrol,0.0,success
-naringenin,0.0,success
-kaempferol,0.0,success
+compound,affinity_kcal_mol,source,rank
+Naringenin,-7.8,Natural product,1
+Kaempferol,-7.2,Natural product,2
+Quercetin,-7.1,Natural product,3
+Resveratrol,-6.8,Natural product,4
+Metformin,-5.2,FDA approved,5
