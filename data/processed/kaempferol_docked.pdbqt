@@ -1,0 +1,459 @@
+MODEL 1
+REMARK VINA RESULT:       0.0      0.000      0.000
+REMARK  Name = data/processed/kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_3  and  O2_4
+REMARK    2  A    between atoms: C3_5  and  C4_6
+REMARK    3  A    between atoms: C7_9  and  O3_10
+REMARK    4  A    between atoms: C12_16  and  O5_17
+REMARK    5  A    between atoms: C14_19  and  O6_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O1  UNL     1      51.642  87.373  81.275  0.00  0.00    +0.000 OA
+ATOM      2  C1  UNL     1      50.817  86.897  80.498  0.00  0.00    +0.000 A 
+ATOM      3  C2  UNL     1      49.784  85.955  80.985  0.00  0.00    +0.000 A 
+ATOM      4  C3  UNL     1      48.903  85.454  80.099  0.00  0.00    +0.000 A 
+ATOM      5  O4  UNL     1      48.908  85.758  78.743  0.00  0.00    +0.000 OA
+ATOM      6  C10 UNL     1      49.847  86.637  78.263  0.00  0.00    +0.000 A 
+ATOM      7  C11 UNL     1      49.802  86.924  76.898  0.00  0.00    +0.000 A 
+ATOM      8  C12 UNL     1      50.732  87.809  76.358  0.00  0.00    +0.000 A 
+ATOM      9  C13 UNL     1      51.703  88.406  77.159  0.00  0.00    +0.000 A 
+ATOM     10  C14 UNL     1      51.743  88.115  78.520  0.00  0.00    +0.000 A 
+ATOM     11  C15 UNL     1      50.813  87.230  79.073  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C4  UNL     1      47.838  84.497  80.468  0.00  0.00    +0.000 A 
+ATOM     13  C5  UNL     1      46.569  84.930  80.886  0.00  0.00    +0.000 A 
+ATOM     14  C6  UNL     1      45.567  84.009  81.207  0.00  0.00    +0.000 A 
+ATOM     15  C7  UNL     1      45.830  82.648  81.103  0.00  0.00    +0.000 A 
+ATOM     16  C8  UNL     1      47.073  82.195  80.684  0.00  0.00    +0.000 A 
+ATOM     17  C9  UNL     1      48.073  83.117  80.364  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O3  UNL     1      44.882  81.716  81.406  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      44.216  81.503  80.781  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O2  UNL     1      49.805  85.638  82.330  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1      50.030  84.771  82.604  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O5  UNL     1      50.727  88.120  75.031  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      50.000  87.873  74.495  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O6  UNL     1      52.717  88.731  79.258  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      52.484  89.241  80.008  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:       0.0      3.656      4.073
+REMARK  Name = data/processed/kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_3  and  O2_4
+REMARK    2  A    between atoms: C3_5  and  C4_6
+REMARK    3  A    between atoms: C7_9  and  O3_10
+REMARK    4  A    between atoms: C12_16  and  O5_17
+REMARK    5  A    between atoms: C14_19  and  O6_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O1  UNL     1      48.949  89.579  79.515  0.00  0.00    +0.000 OA
+ATOM      2  C1  UNL     1      48.118  89.170  78.707  0.00  0.00    +0.000 A 
+ATOM      3  C2  UNL     1      47.036  88.257  79.140  0.00  0.00    +0.000 A 
+ATOM      4  C3  UNL     1      46.150  87.829  78.221  0.00  0.00    +0.000 A 
+ATOM      5  O4  UNL     1      46.194  88.183  76.878  0.00  0.00    +0.000 OA
+ATOM      6  C10 UNL     1      47.179  89.036  76.447  0.00  0.00    +0.000 A 
+ATOM      7  C11 UNL     1      47.172  89.376  75.093  0.00  0.00    +0.000 A 
+ATOM      8  C12 UNL     1      48.150  90.237  74.604  0.00  0.00    +0.000 A 
+ATOM      9  C13 UNL     1      49.131  90.760  75.443  0.00  0.00    +0.000 A 
+ATOM     10  C14 UNL     1      49.133  90.418  76.792  0.00  0.00    +0.000 A 
+ATOM     11  C15 UNL     1      48.155  89.555  77.295  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C4  UNL     1      45.037  86.908  78.536  0.00  0.00    +0.000 A 
+ATOM     13  C5  UNL     1      43.781  87.381  78.949  0.00  0.00    +0.000 A 
+ATOM     14  C6  UNL     1      42.734  86.494  79.217  0.00  0.00    +0.000 A 
+ATOM     15  C7  UNL     1      42.938  85.128  79.067  0.00  0.00    +0.000 A 
+ATOM     16  C8  UNL     1      44.168  84.636  78.651  0.00  0.00    +0.000 A 
+ATOM     17  C9  UNL     1      45.214  85.523  78.384  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O3  UNL     1      41.945  84.228  79.318  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      41.319  84.398  79.996  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O2  UNL     1      47.019  87.890  80.473  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1      47.615  88.287  81.076  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O5  UNL     1      48.183  90.597  73.289  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      48.990  90.868  72.897  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O6  UNL     1      50.120  90.961  77.569  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      49.937  91.710  78.102  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:       0.0     32.358     33.859
+REMARK  Name = data/processed/kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_3  and  O2_4
+REMARK    2  A    between atoms: C3_5  and  C4_6
+REMARK    3  A    between atoms: C7_9  and  O3_10
+REMARK    4  A    between atoms: C12_16  and  O5_17
+REMARK    5  A    between atoms: C14_19  and  O6_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O1  UNL     1      43.460 103.088 106.138  0.00  0.00    +0.000 OA
+ATOM      2  C1  UNL     1      44.387 102.885 106.921  0.00  0.00    +0.000 A 
+ATOM      3  C2  UNL     1      44.114 102.444 108.307  0.00  0.00    +0.000 A 
+ATOM      4  C3  UNL     1      45.157 102.238 109.133  0.00  0.00    +0.000 A 
+ATOM      5  O4  UNL     1      46.485 102.424 108.766  0.00  0.00    +0.000 OA
+ATOM      6  C10 UNL     1      46.771 102.822 107.484  0.00  0.00    +0.000 A 
+ATOM      7  C11 UNL     1      48.119 102.980 107.158  0.00  0.00    +0.000 A 
+ATOM      8  C12 UNL     1      48.464 103.384 105.871  0.00  0.00    +0.000 A 
+ATOM      9  C13 UNL     1      47.487 103.632 104.910  0.00  0.00    +0.000 A 
+ATOM     10  C14 UNL     1      46.144 103.472 105.241  0.00  0.00    +0.000 A 
+ATOM     11  C15 UNL     1      45.786 103.066 106.530  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C4  UNL     1      45.006 101.809 110.540  0.00  0.00    +0.000 A 
+ATOM     13  C5  UNL     1      44.963 100.452 110.898  0.00  0.00    +0.000 A 
+ATOM     14  C6  UNL     1      44.844 100.067 112.237  0.00  0.00    +0.000 A 
+ATOM     15  C7  UNL     1      44.774 101.042 113.225  0.00  0.00    +0.000 A 
+ATOM     16  C8  UNL     1      44.824 102.389 112.897  0.00  0.00    +0.000 A 
+ATOM     17  C9  UNL     1      44.942 102.773 111.559  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O3  UNL     1      44.657 100.711 114.543  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      43.872 100.307 114.857  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O2  UNL     1      42.789 102.288 108.669  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1      42.290 103.028 108.953  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O5  UNL     1      49.767 103.551 105.507  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      50.450 103.161 106.016  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O6  UNL     1      45.228 103.729 104.258  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      44.316 103.780 104.469  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:       0.0     31.723     33.139
+REMARK  Name = data/processed/kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_3  and  O2_4
+REMARK    2  A    between atoms: C3_5  and  C4_6
+REMARK    3  A    between atoms: C7_9  and  O3_10
+REMARK    4  A    between atoms: C12_16  and  O5_17
+REMARK    5  A    between atoms: C14_19  and  O6_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O1  UNL     1      20.076  86.749  93.073  0.00  0.00    +0.000 OA
+ATOM      2  C1  UNL     1      20.185  85.891  93.947  0.00  0.00    +0.000 A 
+ATOM      3  C2  UNL     1      20.271  84.458  93.585  0.00  0.00    +0.000 A 
+ATOM      4  C3  UNL     1      20.385  83.551  94.573  0.00  0.00    +0.000 A 
+ATOM      5  O4  UNL     1      20.417  83.877  95.924  0.00  0.00    +0.000 OA
+ATOM      6  C10 UNL     1      20.349  85.197  96.292  0.00  0.00    +0.000 A 
+ATOM      7  C11 UNL     1      20.401  85.475  97.658  0.00  0.00    +0.000 A 
+ATOM      8  C12 UNL     1      20.335  86.799  98.086  0.00  0.00    +0.000 A 
+ATOM      9  C13 UNL     1      20.218  87.843  97.172  0.00  0.00    +0.000 A 
+ATOM     10  C14 UNL     1      20.167  87.560  95.809  0.00  0.00    +0.000 A 
+ATOM     11  C15 UNL     1      20.234  86.235  95.369  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C4  UNL     1      20.467  82.095  94.332  0.00  0.00    +0.000 A 
+ATOM     13  C5  UNL     1      21.696  81.447  94.132  0.00  0.00    +0.000 A 
+ATOM     14  C6  UNL     1      21.754  80.065  93.930  0.00  0.00    +0.000 A 
+ATOM     15  C7  UNL     1      20.579  79.323  93.934  0.00  0.00    +0.000 A 
+ATOM     16  C8  UNL     1      19.352  79.939  94.138  0.00  0.00    +0.000 A 
+ATOM     17  C9  UNL     1      19.296  81.320  94.339  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O3  UNL     1      20.589  77.973  93.741  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      20.136  77.601  93.009  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O2  UNL     1      20.212  84.145  92.240  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1      20.677  84.666  91.616  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O5  UNL     1      20.382  87.119  99.410  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      20.426  88.017  99.674  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O6  UNL     1      20.052  88.625  94.958  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      19.433  88.597  94.255  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:       0.0     32.711     35.044
+REMARK  Name = data/processed/kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_3  and  O2_4
+REMARK    2  A    between atoms: C3_5  and  C4_6
+REMARK    3  A    between atoms: C7_9  and  O3_10
+REMARK    4  A    between atoms: C12_16  and  O5_17
+REMARK    5  A    between atoms: C14_19  and  O6_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O1  UNL     1      24.333  86.151 105.033  0.00  0.00    +0.000 OA
+ATOM      2  C1  UNL     1      24.339  85.026 104.537  0.00  0.00    +0.000 A 
+ATOM      3  C2  UNL     1      23.798  84.802 103.177  0.00  0.00    +0.000 A 
+ATOM      4  C3  UNL     1      23.819  83.553 102.675  0.00  0.00    +0.000 A 
+ATOM      5  O4  UNL     1      24.311  82.449 103.361  0.00  0.00    +0.000 OA
+ATOM      6  C10 UNL     1      24.829  82.626 104.619  0.00  0.00    +0.000 A 
+ATOM      7  C11 UNL     1      25.326  81.491 105.262  0.00  0.00    +0.000 A 
+ATOM      8  C12 UNL     1      25.862  81.614 106.541  0.00  0.00    +0.000 A 
+ATOM      9  C13 UNL     1      25.908  82.849 107.185  0.00  0.00    +0.000 A 
+ATOM     10  C14 UNL     1      25.411  83.977 106.539  0.00  0.00    +0.000 A 
+ATOM     11  C15 UNL     1      24.871  83.866 105.254  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C4  UNL     1      23.295  83.209 101.335  0.00  0.00    +0.000 A 
+ATOM     13  C5  UNL     1      24.107  83.259 100.191  0.00  0.00    +0.000 A 
+ATOM     14  C6  UNL     1      23.600  82.906  98.936  0.00  0.00    +0.000 A 
+ATOM     15  C7  UNL     1      22.277  82.494  98.824  0.00  0.00    +0.000 A 
+ATOM     16  C8  UNL     1      21.458  82.428  99.942  0.00  0.00    +0.000 A 
+ATOM     17  C9  UNL     1      21.965  82.782 101.195  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O3  UNL     1      21.741  82.141  97.621  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      21.818  81.259  97.314  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O2  UNL     1      23.286  85.902 102.515  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1      23.246  85.909 101.579  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O5  UNL     1      26.360  80.534 107.208  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      26.272  79.676 106.842  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O6  UNL     1      25.481  85.163 107.218  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      24.829  85.821 107.079  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:       0.0     30.349     34.644
+REMARK  Name = data/processed/kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_3  and  O2_4
+REMARK    2  A    between atoms: C3_5  and  C4_6
+REMARK    3  A    between atoms: C7_9  and  O3_10
+REMARK    4  A    between atoms: C12_16  and  O5_17
+REMARK    5  A    between atoms: C14_19  and  O6_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O1  UNL     1      25.124  84.667 105.442  0.00  0.00    +0.000 OA
+ATOM      2  C1  UNL     1      24.845  83.823 104.593  0.00  0.00    +0.000 A 
+ATOM      3  C2  UNL     1      24.974  84.135 103.152  0.00  0.00    +0.000 A 
+ATOM      4  C3  UNL     1      24.652  83.183 102.256  0.00  0.00    +0.000 A 
+ATOM      5  O4  UNL     1      24.193  81.918 102.601  0.00  0.00    +0.000 OA
+ATOM      6  C10 UNL     1      24.072  81.593 103.929  0.00  0.00    +0.000 A 
+ATOM      7  C11 UNL     1      23.623  80.306 104.227  0.00  0.00    +0.000 A 
+ATOM      8  C12 UNL     1      23.482  79.926 105.559  0.00  0.00    +0.000 A 
+ATOM      9  C13 UNL     1      23.781  80.809 106.593  0.00  0.00    +0.000 A 
+ATOM     10  C14 UNL     1      24.229  82.092 106.291  0.00  0.00    +0.000 A 
+ATOM     11  C15 UNL     1      24.376  82.484 104.957  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C4  UNL     1      24.730  83.386 100.794  0.00  0.00    +0.000 A 
+ATOM     13  C5  UNL     1      25.902  83.112 100.072  0.00  0.00    +0.000 A 
+ATOM     14  C6  UNL     1      25.948  83.287  98.685  0.00  0.00    +0.000 A 
+ATOM     15  C7  UNL     1      24.815  83.731  98.014  0.00  0.00    +0.000 A 
+ATOM     16  C8  UNL     1      23.641  84.000  98.704  0.00  0.00    +0.000 A 
+ATOM     17  C9  UNL     1      23.597  83.826 100.090  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O3  UNL     1      24.815  83.916  96.663  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      24.610  83.201  96.092  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O2  UNL     1      25.406  85.406 102.820  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1      25.961  85.880 103.407  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O5  UNL     1      23.046  78.679 105.897  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      23.329  78.285 106.699  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O6  UNL     1      24.508  82.917 107.346  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      25.220  83.523 107.291  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:       0.0     27.823     29.722
+REMARK  Name = data/processed/kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_3  and  O2_4
+REMARK    2  A    between atoms: C3_5  and  C4_6
+REMARK    3  A    between atoms: C7_9  and  O3_10
+REMARK    4  A    between atoms: C12_16  and  O5_17
+REMARK    5  A    between atoms: C14_19  and  O6_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O1  UNL     1      23.994  78.981  89.446  0.00  0.00    +0.000 OA
+ATOM      2  C1  UNL     1      23.078  79.388  88.734  0.00  0.00    +0.000 A 
+ATOM      3  C2  UNL     1      22.231  78.435  87.982  0.00  0.00    +0.000 A 
+ATOM      4  C3  UNL     1      21.243  78.924  87.210  0.00  0.00    +0.000 A 
+ATOM      5  O4  UNL     1      20.971  80.279  87.064  0.00  0.00    +0.000 OA
+ATOM      6  C10 UNL     1      21.731  81.188  87.757  0.00  0.00    +0.000 A 
+ATOM      7  C11 UNL     1      21.410  82.536  87.591  0.00  0.00    +0.000 A 
+ATOM      8  C12 UNL     1      22.150  83.499  88.270  0.00  0.00    +0.000 A 
+ATOM      9  C13 UNL     1      23.203  83.138  89.107  0.00  0.00    +0.000 A 
+ATOM     10  C14 UNL     1      23.519  81.791  89.268  0.00  0.00    +0.000 A 
+ATOM     11  C15 UNL     1      22.781  80.815  88.593  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C4  UNL     1      20.344  78.069  86.405  0.00  0.00    +0.000 A 
+ATOM     13  C5  UNL     1      19.145  77.559  86.930  0.00  0.00    +0.000 A 
+ATOM     14  C6  UNL     1      18.296  76.772  86.145  0.00  0.00    +0.000 A 
+ATOM     15  C7  UNL     1      18.641  76.498  84.827  0.00  0.00    +0.000 A 
+ATOM     16  C8  UNL     1      19.816  76.998  84.283  0.00  0.00    +0.000 A 
+ATOM     17  C9  UNL     1      20.664  77.783  85.068  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O3  UNL     1      17.843  75.736  84.027  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      18.180  75.386  83.225  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O2  UNL     1      22.528  77.091  88.113  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1      23.059  76.796  88.826  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O5  UNL     1      21.873  84.828  88.140  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      21.875  85.383  88.894  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O6  UNL     1      24.563  81.494  90.102  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      25.292  82.079  90.166  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:       0.0     44.504     47.213
+REMARK  Name = data/processed/kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_3  and  O2_4
+REMARK    2  A    between atoms: C3_5  and  C4_6
+REMARK    3  A    between atoms: C7_9  and  O3_10
+REMARK    4  A    between atoms: C12_16  and  O5_17
+REMARK    5  A    between atoms: C14_19  and  O6_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O1  UNL     1       8.624 100.710 100.625  0.00  0.00    +0.000 OA
+ATOM      2  C1  UNL     1       9.570 101.483 100.762  0.00  0.00    +0.000 A 
+ATOM      3  C2  UNL     1       9.995 102.355  99.644  0.00  0.00    +0.000 A 
+ATOM      4  C3  UNL     1      11.039 103.183  99.835  0.00  0.00    +0.000 A 
+ATOM      5  O4  UNL     1      11.755 103.265 101.023  0.00  0.00    +0.000 OA
+ATOM      6  C10 UNL     1      11.380 102.478 102.083  0.00  0.00    +0.000 A 
+ATOM      7  C11 UNL     1      12.119 102.607 103.259  0.00  0.00    +0.000 A 
+ATOM      8  C12 UNL     1      11.780 101.830 104.364  0.00  0.00    +0.000 A 
+ATOM      9  C13 UNL     1      10.719 100.929 104.310  0.00  0.00    +0.000 A 
+ATOM     10  C14 UNL     1       9.985 100.805 103.133  0.00  0.00    +0.000 A 
+ATOM     11  C15 UNL     1      10.315 101.581 102.019  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C4  UNL     1      11.558 104.089  98.788  0.00  0.00    +0.000 A 
+ATOM     13  C5  UNL     1      11.061 105.392  98.627  0.00  0.00    +0.000 A 
+ATOM     14  C6  UNL     1      11.584 106.242  97.646  0.00  0.00    +0.000 A 
+ATOM     15  C7  UNL     1      12.612 105.790  96.827  0.00  0.00    +0.000 A 
+ATOM     16  C8  UNL     1      13.125 104.509  96.973  0.00  0.00    +0.000 A 
+ATOM     17  C9  UNL     1      12.602 103.662  97.953  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O3  UNL     1      13.149 106.585  95.858  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      14.058 106.813  95.890  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O2  UNL     1       9.292 102.245  98.459  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1       9.751 102.167  97.646  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O5  UNL     1      12.473 101.923 105.534  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      12.061 101.690 106.343  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O6  UNL     1       8.954  99.905 103.138  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1       8.666  99.527 103.945  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:       0.0     27.482     29.456
+REMARK  Name = data/processed/kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_3  and  O2_4
+REMARK    2  A    between atoms: C3_5  and  C4_6
+REMARK    3  A    between atoms: C7_9  and  O3_10
+REMARK    4  A    between atoms: C12_16  and  O5_17
+REMARK    5  A    between atoms: C14_19  and  O6_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O1  UNL     1      33.612 101.192  99.967  0.00  0.00    +0.000 OA
+ATOM      2  C1  UNL     1      32.745 101.060  99.105  0.00  0.00    +0.000 A 
+ATOM      3  C2  UNL     1      32.844  99.977  98.100  0.00  0.00    +0.000 A 
+ATOM      4  C3  UNL     1      31.876  99.872  97.171  0.00  0.00    +0.000 A 
+ATOM      5  O4  UNL     1      30.785 100.728  97.088  0.00  0.00    +0.000 OA
+ATOM      6  C10 UNL     1      30.658 101.735  98.012  0.00  0.00    +0.000 A 
+ATOM      7  C11 UNL     1      29.537 102.559  97.898  0.00  0.00    +0.000 A 
+ATOM      8  C12 UNL     1      29.361 103.598  98.809  0.00  0.00    +0.000 A 
+ATOM      9  C13 UNL     1      30.285 103.824  99.826  0.00  0.00    +0.000 A 
+ATOM     10  C14 UNL     1      31.401 102.998  99.936  0.00  0.00    +0.000 A 
+ATOM     11  C15 UNL     1      31.587 101.952  99.027  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C4  UNL     1      31.876  98.839  96.113  0.00  0.00    +0.000 A 
+ATOM     13  C5  UNL     1      31.280  97.583  96.306  0.00  0.00    +0.000 A 
+ATOM     14  C6  UNL     1      31.270  96.629  95.284  0.00  0.00    +0.000 A 
+ATOM     15  C7  UNL     1      31.852  96.933  94.059  0.00  0.00    +0.000 A 
+ATOM     16  C8  UNL     1      32.440  98.171  93.840  0.00  0.00    +0.000 A 
+ATOM     17  C9  UNL     1      32.450  99.123  94.863  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O3  UNL     1      31.865  96.032  93.035  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      32.268  95.195  93.152  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O2  UNL     1      33.948  99.148  98.176  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1      34.099  98.506  97.511  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O5  UNL     1      28.282 104.428  98.737  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      28.170 105.106  99.373  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O6  UNL     1      32.274 103.267 100.954  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      33.028 102.725 101.079  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL

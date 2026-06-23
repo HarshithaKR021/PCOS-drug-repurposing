@@ -1,0 +1,414 @@
+MODEL 1
+REMARK VINA RESULT:       0.0      0.000      0.000
+REMARK  Name = data/processed/resveratrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C4_5  and  C5_6
+REMARK    3  A    between atoms: C6_7  and  C7_8
+REMARK    4  A    between atoms: C9_10  and  O2_11
+REMARK    5  A    between atoms: C11_13  and  O3_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  UNL     1      14.883  97.399  91.656  0.00  0.00    +0.000 C 
+ATOM      2  C6  UNL     1      15.584  96.259  91.775  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   6
+ATOM      3  C1  UNL     1      13.389  99.544  95.027  0.00  0.00    +0.000 A 
+ATOM      4  C2  UNL     1      14.196  98.429  95.209  0.00  0.00    +0.000 A 
+ATOM      5  C3  UNL     1      14.683  97.739  94.096  0.00  0.00    +0.000 A 
+ATOM      6  C4  UNL     1      14.375  98.170  92.799  0.00  0.00    +0.000 A 
+ATOM      7  C13 UNL     1      13.547  99.291  92.638  0.00  0.00    +0.000 A 
+ATOM      8  C14 UNL     1      13.058  99.982  93.750  0.00  0.00    +0.000 A 
+BRANCH   3   9
+ATOM      9  O1  UNL     1      12.935 100.188  96.140  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1      13.520 100.712  96.650  0.00  0.00    +0.000 HD
+ENDBRANCH   3   9
+ENDBRANCH   1   6
+BRANCH   2  11
+ATOM     11  C7  UNL     1      16.087  95.489  90.629  0.00  0.00    +0.000 A 
+ATOM     12  C8  UNL     1      16.907  94.363  90.789  0.00  0.00    +0.000 A 
+ATOM     13  C9  UNL     1      17.384  93.679  89.673  0.00  0.00    +0.000 A 
+ATOM     14  C10 UNL     1      17.068  94.100  88.388  0.00  0.00    +0.000 A 
+ATOM     15  C11 UNL     1      16.268  95.225  88.228  0.00  0.00    +0.000 A 
+ATOM     16  C12 UNL     1      15.781  95.926  89.332  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  O2  UNL     1      18.173  92.587  89.888  0.00  0.00    +0.000 OA
+ATOM     18  H   UNL     1      19.099  92.643  89.752  0.00  0.00    +0.000 HD
+ENDBRANCH  13  17
+BRANCH  15  19
+ATOM     19  O3  UNL     1      15.979  95.620  86.954  0.00  0.00    +0.000 OA
+ATOM     20  H   UNL     1      16.354  96.407  86.611  0.00  0.00    +0.000 HD
+ENDBRANCH  15  19
+ENDBRANCH   2  11
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:       0.0     25.565     27.259
+REMARK  Name = data/processed/resveratrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C4_5  and  C5_6
+REMARK    3  A    between atoms: C6_7  and  C7_8
+REMARK    4  A    between atoms: C9_10  and  O2_11
+REMARK    5  A    between atoms: C11_13  and  O3_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  UNL     1      34.104  86.344 107.398  0.00  0.00    +0.000 C 
+ATOM      2  C6  UNL     1      33.145  87.156 107.873  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   6
+ATOM      3  C1  UNL     1      33.238  82.580 105.584  0.00  0.00    +0.000 A 
+ATOM      4  C2  UNL     1      32.206  83.427 105.965  0.00  0.00    +0.000 A 
+ATOM      5  C3  UNL     1      32.503  84.659 106.552  0.00  0.00    +0.000 A 
+ATOM      6  C4  UNL     1      33.834  85.053 106.750  0.00  0.00    +0.000 A 
+ATOM      7  C13 UNL     1      34.861  84.175 106.370  0.00  0.00    +0.000 A 
+ATOM      8  C14 UNL     1      34.565  82.942 105.782  0.00  0.00    +0.000 A 
+BRANCH   3   9
+ATOM      9  O1  UNL     1      32.903  81.387 105.015  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1      32.992  81.268 104.090  0.00  0.00    +0.000 HD
+ENDBRANCH   3   9
+ENDBRANCH   1   6
+BRANCH   2  11
+ATOM     11  C7  UNL     1      33.419  88.444 108.525  0.00  0.00    +0.000 A 
+ATOM     12  C8  UNL     1      32.393  89.318 108.912  0.00  0.00    +0.000 A 
+ATOM     13  C9  UNL     1      32.700  90.542 109.501  0.00  0.00    +0.000 A 
+ATOM     14  C10 UNL     1      34.019  90.926 109.707  0.00  0.00    +0.000 A 
+ATOM     15  C11 UNL     1      35.037  90.068 109.309  0.00  0.00    +0.000 A 
+ATOM     16  C12 UNL     1      34.752  88.837 108.716  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  O2  UNL     1      31.661  91.350 109.864  0.00  0.00    +0.000 OA
+ATOM     18  H   UNL     1      30.978  91.017 110.412  0.00  0.00    +0.000 HD
+ENDBRANCH  13  17
+BRANCH  15  19
+ATOM     19  O3  UNL     1      36.323  90.473 109.517  0.00  0.00    +0.000 OA
+ATOM     20  H   UNL     1      36.811  90.129 110.239  0.00  0.00    +0.000 HD
+ENDBRANCH  15  19
+ENDBRANCH   2  11
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:       0.0      8.557     10.958
+REMARK  Name = data/processed/resveratrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C4_5  and  C5_6
+REMARK    3  A    between atoms: C6_7  and  C7_8
+REMARK    4  A    between atoms: C9_10  and  O2_11
+REMARK    5  A    between atoms: C11_13  and  O3_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  UNL     1      22.570  90.907  93.235  0.00  0.00    +0.000 C 
+ATOM      2  C6  UNL     1      22.186  92.149  92.897  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   6
+ATOM      3  C1  UNL     1      20.095  87.487  92.622  0.00  0.00    +0.000 A 
+ATOM      4  C2  UNL     1      19.693  88.733  92.162  0.00  0.00    +0.000 A 
+ATOM      5  C3  UNL     1      20.515  89.844  92.364  0.00  0.00    +0.000 A 
+ATOM      6  C4  UNL     1      21.748  89.709  93.017  0.00  0.00    +0.000 A 
+ATOM      7  C13 UNL     1      22.128  88.443  93.487  0.00  0.00    +0.000 A 
+ATOM      8  C14 UNL     1      21.306  87.330  93.286  0.00  0.00    +0.000 A 
+BRANCH   3   9
+ATOM      9  O1  UNL     1      19.261  86.430  92.405  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1      19.059  85.841  93.105  0.00  0.00    +0.000 HD
+ENDBRANCH   3   9
+ENDBRANCH   1   6
+BRANCH   2  11
+ATOM     11  C7  UNL     1      23.009  93.346  93.122  0.00  0.00    +0.000 A 
+ATOM     12  C8  UNL     1      22.626  94.613  92.660  0.00  0.00    +0.000 A 
+ATOM     13  C9  UNL     1      23.451  95.715  92.870  0.00  0.00    +0.000 A 
+ATOM     14  C10 UNL     1      24.667  95.582  93.528  0.00  0.00    +0.000 A 
+ATOM     15  C11 UNL     1      25.056  94.324  93.972  0.00  0.00    +0.000 A 
+ATOM     16  C12 UNL     1      24.244  93.206  93.771  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  O2  UNL     1      23.025  96.925  92.405  0.00  0.00    +0.000 OA
+ATOM     18  H   UNL     1      22.109  97.117  92.370  0.00  0.00    +0.000 HD
+ENDBRANCH  13  17
+BRANCH  15  19
+ATOM     19  O3  UNL     1      26.258  94.222  94.610  0.00  0.00    +0.000 OA
+ATOM     20  H   UNL     1      26.917  94.873  94.473  0.00  0.00    +0.000 HD
+ENDBRANCH  15  19
+ENDBRANCH   2  11
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:       0.0     36.585     37.569
+REMARK  Name = data/processed/resveratrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C4_5  and  C5_6
+REMARK    3  A    between atoms: C6_7  and  C7_8
+REMARK    4  A    between atoms: C9_10  and  O2_11
+REMARK    5  A    between atoms: C11_13  and  O3_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  UNL     1      40.356  73.802 107.162  0.00  0.00    +0.000 C 
+ATOM      2  C6  UNL     1      40.672  73.089 106.068  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   6
+ATOM      3  C1  UNL     1      38.233  72.129 110.463  0.00  0.00    +0.000 A 
+ATOM      4  C2  UNL     1      38.624  71.324 109.402  0.00  0.00    +0.000 A 
+ATOM      5  C3  UNL     1      39.324  71.883 108.331  0.00  0.00    +0.000 A 
+ATOM      6  C4  UNL     1      39.645  73.247 108.322  0.00  0.00    +0.000 A 
+ATOM      7  C13 UNL     1      39.228  74.045 109.397  0.00  0.00    +0.000 A 
+ATOM      8  C14 UNL     1      38.527  73.488 110.471  0.00  0.00    +0.000 A 
+BRANCH   3   9
+ATOM      9  O1  UNL     1      37.551  71.543 111.489  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1      38.005  71.291 112.268  0.00  0.00    +0.000 HD
+ENDBRANCH   3   9
+ENDBRANCH   1   6
+BRANCH   2  11
+ATOM     11  C7  UNL     1      41.379  73.648 104.908  0.00  0.00    +0.000 A 
+ATOM     12  C8  UNL     1      41.789  72.853 103.829  0.00  0.00    +0.000 A 
+ATOM     13  C9  UNL     1      42.482  73.421 102.762  0.00  0.00    +0.000 A 
+ATOM     14  C10 UNL     1      42.790  74.775 102.749  0.00  0.00    +0.000 A 
+ATOM     15  C11 UNL     1      42.398  75.562 103.827  0.00  0.00    +0.000 A 
+ATOM     16  C12 UNL     1      41.704  75.013 104.905  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  O2  UNL     1      42.851  72.600 101.736  0.00  0.00    +0.000 OA
+ATOM     18  H   UNL     1      43.234  72.961 100.961  0.00  0.00    +0.000 HD
+ENDBRANCH  13  17
+BRANCH  15  19
+ATOM     19  O3  UNL     1      42.719  76.888 103.790  0.00  0.00    +0.000 OA
+ATOM     20  H   UNL     1      43.327  77.205 103.152  0.00  0.00    +0.000 HD
+ENDBRANCH  15  19
+ENDBRANCH   2  11
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:       0.0     14.610     16.259
+REMARK  Name = data/processed/resveratrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C4_5  and  C5_6
+REMARK    3  A    between atoms: C6_7  and  C7_8
+REMARK    4  A    between atoms: C9_10  and  O2_11
+REMARK    5  A    between atoms: C11_13  and  O3_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  UNL     1       9.474  83.255  93.893  0.00  0.00    +0.000 C 
+ATOM      2  C6  UNL     1       8.616  83.488  94.901  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   6
+ATOM      3  C1  UNL     1      12.931  85.661  93.214  0.00  0.00    +0.000 A 
+ATOM      4  C2  UNL     1      12.134  85.881  94.329  0.00  0.00    +0.000 A 
+ATOM      5  C3  UNL     1      11.008  85.082  94.543  0.00  0.00    +0.000 A 
+ATOM      6  C4  UNL     1      10.683  84.053  93.648  0.00  0.00    +0.000 A 
+ATOM      7  C13 UNL     1      11.495  83.858  92.521  0.00  0.00    +0.000 A 
+ATOM      8  C14 UNL     1      12.622  84.656  92.305  0.00  0.00    +0.000 A 
+BRANCH   3   9
+ATOM      9  O1  UNL     1      14.020  86.464  93.043  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1      14.648  86.555  93.732  0.00  0.00    +0.000 HD
+ENDBRANCH   3   9
+ENDBRANCH   1   6
+BRANCH   2  11
+ATOM     11  C7  UNL     1       7.406  82.690  95.140  0.00  0.00    +0.000 A 
+ATOM     12  C8  UNL     1       6.590  82.890  96.262  0.00  0.00    +0.000 A 
+ATOM     13  C9  UNL     1       5.466  82.091  96.464  0.00  0.00    +0.000 A 
+ATOM     14  C10 UNL     1       5.139  81.079  95.570  0.00  0.00    +0.000 A 
+ATOM     15  C11 UNL     1       5.957  80.869  94.466  0.00  0.00    +0.000 A 
+ATOM     16  C12 UNL     1       7.087  81.657  94.246  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  O2  UNL     1       4.705  82.335  97.570  0.00  0.00    +0.000 OA
+ATOM     18  H   UNL     1       5.015  82.085  98.417  0.00  0.00    +0.000 HD
+ENDBRANCH  13  17
+BRANCH  15  19
+ATOM     19  O3  UNL     1       5.614  79.864  93.609  0.00  0.00    +0.000 OA
+ATOM     20  H   UNL     1       6.249  79.219  93.368  0.00  0.00    +0.000 HD
+ENDBRANCH  15  19
+ENDBRANCH   2  11
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:       0.0     31.677     33.071
+REMARK  Name = data/processed/resveratrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C4_5  and  C5_6
+REMARK    3  A    between atoms: C6_7  and  C7_8
+REMARK    4  A    between atoms: C9_10  and  O2_11
+REMARK    5  A    between atoms: C11_13  and  O3_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  UNL     1      28.884  78.048 114.211  0.00  0.00    +0.000 C 
+ATOM      2  C6  UNL     1      29.991  77.691 114.883  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   6
+ATOM      3  C1  UNL     1      26.034  80.812 115.773  0.00  0.00    +0.000 A 
+ATOM      4  C2  UNL     1      27.211  80.556 116.462  0.00  0.00    +0.000 A 
+ATOM      5  C3  UNL     1      28.139  79.653 115.936  0.00  0.00    +0.000 A 
+ATOM      6  C4  UNL     1      27.897  79.012 114.714  0.00  0.00    +0.000 A 
+ATOM      7  C13 UNL     1      26.694  79.275 114.041  0.00  0.00    +0.000 A 
+ATOM      8  C14 UNL     1      25.764  80.178 114.565  0.00  0.00    +0.000 A 
+BRANCH   3   9
+ATOM      9  O1  UNL     1      25.156  81.699 116.322  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1      25.214  81.914 117.231  0.00  0.00    +0.000 HD
+ENDBRANCH   3   9
+ENDBRANCH   1   6
+BRANCH   2  11
+ATOM     11  C7  UNL     1      30.974  76.723 114.378  0.00  0.00    +0.000 A 
+ATOM     12  C8  UNL     1      32.172  76.454 115.054  0.00  0.00    +0.000 A 
+ATOM     13  C9  UNL     1      33.088  75.548 114.524  0.00  0.00    +0.000 A 
+ATOM     14  C10 UNL     1      32.842  74.905 113.318  0.00  0.00    +0.000 A 
+ATOM     15  C11 UNL     1      31.661  75.183 112.639  0.00  0.00    +0.000 A 
+ATOM     16  C12 UNL     1      30.730  76.087 113.151  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  O2  UNL     1      34.235  75.320 115.228  0.00  0.00    +0.000 OA
+ATOM     18  H   UNL     1      34.330  75.667 116.093  0.00  0.00    +0.000 HD
+ENDBRANCH  13  17
+BRANCH  15  19
+ATOM     19  O3  UNL     1      31.448  74.541 111.453  0.00  0.00    +0.000 OA
+ATOM     20  H   UNL     1      32.146  74.457 110.834  0.00  0.00    +0.000 HD
+ENDBRANCH  15  19
+ENDBRANCH   2  11
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:       0.0     29.969     31.217
+REMARK  Name = data/processed/resveratrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C4_5  and  C5_6
+REMARK    3  A    between atoms: C6_7  and  C7_8
+REMARK    4  A    between atoms: C9_10  and  O2_11
+REMARK    5  A    between atoms: C11_13  and  O3_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  UNL     1      11.316  66.830  96.567  0.00  0.00    +0.000 C 
+ATOM      2  C6  UNL     1      10.291  67.481  97.142  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   6
+ATOM      3  C1  UNL     1      11.484  66.054  92.375  0.00  0.00    +0.000 A 
+ATOM      4  C2  UNL     1      10.454  66.820  92.904  0.00  0.00    +0.000 A 
+ATOM      5  C3  UNL     1      10.414  67.071  94.277  0.00  0.00    +0.000 A 
+ATOM      6  C4  UNL     1      11.411  66.567  95.124  0.00  0.00    +0.000 A 
+ATOM      7  C13 UNL     1      12.434  65.784  94.570  0.00  0.00    +0.000 A 
+ATOM      8  C14 UNL     1      12.476  65.531  93.196  0.00  0.00    +0.000 A 
+BRANCH   3   9
+ATOM      9  O1  UNL     1      11.485  65.832  91.029  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1      12.276  65.581  90.596  0.00  0.00    +0.000 HD
+ENDBRANCH   3   9
+ENDBRANCH   1   6
+BRANCH   2  11
+ATOM     11  C7  UNL     1      10.198  67.738  98.586  0.00  0.00    +0.000 A 
+ATOM     12  C8  UNL     1       9.170  68.513  99.141  0.00  0.00    +0.000 A 
+ATOM     13  C9  UNL     1       9.137  68.754 100.513  0.00  0.00    +0.000 A 
+ATOM     14  C10 UNL     1      10.119  68.245 101.353  0.00  0.00    +0.000 A 
+ATOM     15  C11 UNL     1      11.147  67.489 100.801  0.00  0.00    +0.000 A 
+ATOM     16  C12 UNL     1      11.200  67.236  99.429  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  O2  UNL     1       8.110  69.511 100.999  0.00  0.00    +0.000 OA
+ATOM     18  H   UNL     1       8.209  69.969 101.810  0.00  0.00    +0.000 HD
+ENDBRANCH  13  17
+BRANCH  15  19
+ATOM     19  O3  UNL     1      12.101  67.006 101.649  0.00  0.00    +0.000 OA
+ATOM     20  H   UNL     1      12.894  67.487 101.783  0.00  0.00    +0.000 HD
+ENDBRANCH  15  19
+ENDBRANCH   2  11
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:       0.0     18.394     20.078
+REMARK  Name = data/processed/resveratrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C4_5  and  C5_6
+REMARK    3  A    between atoms: C6_7  and  C7_8
+REMARK    4  A    between atoms: C9_10  and  O2_11
+REMARK    5  A    between atoms: C11_13  and  O3_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  UNL     1      30.139 105.622  84.976  0.00  0.00    +0.000 C 
+ATOM      2  C6  UNL     1      30.724 106.505  85.801  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   6
+ATOM      3  C1  UNL     1      31.195 105.272  80.857  0.00  0.00    +0.000 A 
+ATOM      4  C2  UNL     1      31.901 106.128  81.690  0.00  0.00    +0.000 A 
+ATOM      5  C3  UNL     1      31.549 106.229  83.038  0.00  0.00    +0.000 A 
+ATOM      6  C4  UNL     1      30.496 105.464  83.559  0.00  0.00    +0.000 A 
+ATOM      7  C13 UNL     1      29.787 104.616  82.697  0.00  0.00    +0.000 A 
+ATOM      8  C14 UNL     1      30.138 104.514  81.347  0.00  0.00    +0.000 A 
+BRANCH   3   9
+ATOM      9  O1  UNL     1      31.571 105.205  79.548  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1      31.574 105.979  79.021  0.00  0.00    +0.000 HD
+ENDBRANCH   3   9
+ENDBRANCH   1   6
+BRANCH   2  11
+ATOM     11  C7  UNL     1      30.361 106.662  87.216  0.00  0.00    +0.000 A 
+ATOM     12  C8  UNL     1      31.064 107.517  88.077  0.00  0.00    +0.000 A 
+ATOM     13  C9  UNL     1      30.702 107.614  89.419  0.00  0.00    +0.000 A 
+ATOM     14  C10 UNL     1      29.651 106.864  89.931  0.00  0.00    +0.000 A 
+ATOM     15  C11 UNL     1      28.964 106.004  89.082  0.00  0.00    +0.000 A 
+ATOM     16  C12 UNL     1      29.310 105.891  87.735  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  O2  UNL     1      31.417 108.465  90.209  0.00  0.00    +0.000 OA
+ATOM     18  H   UNL     1      31.321 109.392  90.107  0.00  0.00    +0.000 HD
+ENDBRANCH  13  17
+BRANCH  15  19
+ATOM     19  O3  UNL     1      27.940 105.275  89.615  0.00  0.00    +0.000 OA
+ATOM     20  H   UNL     1      28.060 104.365  89.799  0.00  0.00    +0.000 HD
+ENDBRANCH  15  19
+ENDBRANCH   2  11
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:       0.0     14.523     16.145
+REMARK  Name = data/processed/resveratrol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O1_1  and  C1_2
+REMARK    2  A    between atoms: C4_5  and  C5_6
+REMARK    3  A    between atoms: C6_7  and  C7_8
+REMARK    4  A    between atoms: C9_10  and  O2_11
+REMARK    5  A    between atoms: C11_13  and  O3_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  UNL     1      23.670  85.341  86.238  0.00  0.00    +0.000 C 
+ATOM      2  C6  UNL     1      23.079  84.408  85.474  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   6
+ATOM      3  C1  UNL     1      26.697  84.394  89.092  0.00  0.00    +0.000 A 
+ATOM      4  C2  UNL     1      26.191  83.409  88.256  0.00  0.00    +0.000 A 
+ATOM      5  C3  UNL     1      25.205  83.733  87.322  0.00  0.00    +0.000 A 
+ATOM      6  C4  UNL     1      24.730  85.047  87.213  0.00  0.00    +0.000 A 
+ATOM      7  C13 UNL     1      25.245  86.025  88.078  0.00  0.00    +0.000 A 
+ATOM      8  C14 UNL     1      26.232  85.702  89.014  0.00  0.00    +0.000 A 
+BRANCH   3   9
+ATOM      9  O1  UNL     1      27.658  84.034  89.990  0.00  0.00    +0.000 OA
+ATOM     10  H   UNL     1      28.545  83.927  89.709  0.00  0.00    +0.000 HD
+ENDBRANCH   3   9
+ENDBRANCH   1   6
+BRANCH   2  11
+ATOM     11  C7  UNL     1      22.016  84.705  84.503  0.00  0.00    +0.000 A 
+ATOM     12  C8  UNL     1      21.495  83.727  83.645  0.00  0.00    +0.000 A 
+ATOM     13  C9  UNL     1      20.508  84.059  82.720  0.00  0.00    +0.000 A 
+ATOM     14  C10 UNL     1      20.030  85.360  82.621  0.00  0.00    +0.000 A 
+ATOM     15  C11 UNL     1      20.557  86.334  83.461  0.00  0.00    +0.000 A 
+ATOM     16  C12 UNL     1      21.547  86.022  84.394  0.00  0.00    +0.000 A 
+BRANCH  13  17
+ATOM     17  O2  UNL     1      20.033  83.066  81.914  0.00  0.00    +0.000 OA
+ATOM     18  H   UNL     1      19.423  82.440  82.252  0.00  0.00    +0.000 HD
+ENDBRANCH  13  17
+BRANCH  15  19
+ATOM     19  O3  UNL     1      20.073  87.604  83.338  0.00  0.00    +0.000 OA
+ATOM     20  H   UNL     1      19.250  87.752  82.917  0.00  0.00    +0.000 HD
+ENDBRANCH  15  19
+ENDBRANCH   2  11
+TORSDOF 5
+ENDMDL

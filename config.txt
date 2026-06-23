@@ -1,0 +1,9 @@
+receptor = data/processed/receptor.pdbqt
+center_x = 26.5
+center_y = 91.0
+center_z = 97.5
+size_x = 60
+size_y = 60
+size_z = 60
+exhaustiveness = 32
+num_modes = 9
